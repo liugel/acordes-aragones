@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acords en aragonés – Blogs</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Acords en aragonés</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Elen - Un domingo mas</title>
+      <link>http://localhost:1313/blog/elen-un-domingo-mas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/elen-un-domingo-mas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;D          Am      C               G
+Viene un momento, agora quiero charrar.
+D          Am         C           G
+Lo siento per haber tardau tanto a dar un sinyal.
+D                    Am           C        G
+Quiero tornar a encender as tuyas luces fundidas
+D                     Am            C                      G
+Quiero dentrar en o soterranyo, y posar-me en ixe viello sofá.&lt;/p&gt;
+&lt;p&gt;Me fa falta un domingo mas, pa comprender-te, pa entender-me&lt;/p&gt;
+&lt;p&gt;Me fa falta nomás un día mas, pa parar cuenta d’o que vale a pena&lt;/p&gt;
+&lt;p&gt;Voi a reconciliar-me con a tuya cara B,&lt;/p&gt;
+&lt;p&gt;la que me fa escalatrir pero quiero tornar a veyer.&lt;/p&gt;
+&lt;p&gt;Viengo a quitar es repuis de pan que deixés ahiere,&lt;/p&gt;
+&lt;p&gt;imos a oblidar y torna-me a abrazar.&lt;/p&gt;
+&lt;p&gt;Me fa falta un domingo mas, pa comprender-te, pa entender-me&lt;/p&gt;
+&lt;p&gt;Me fa falta nomás un día mas, pa parar cuenta d’o que vale a pena&lt;/p&gt;
+&lt;p&gt;Ascuita a mía voz entre a immensidat,&lt;/p&gt;
+&lt;p&gt;Arribaremos a tiempo y nos tornaremos a trobar.&lt;/p&gt;
+&lt;p&gt;Me fa falta un domingo mas, pa comprender-te, pa entender-me&lt;/p&gt;
+&lt;p&gt;Me fa falta nomás un día mas, pa parar cuenta&lt;/p&gt;
+&lt;p&gt;Me fa falta un domingo mas, pa comprender-te, pa entender-me&lt;/p&gt;
+&lt;p&gt;Me fa falta nomás un día mas, pa parar cuenta d’o que vale a pena&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
