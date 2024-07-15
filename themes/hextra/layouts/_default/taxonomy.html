@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+        {{ partial "components/pager.html" . }}
+        {{ partial "components/comments.html" . }}
+  <br><br>
+  </main>
+{{ end }}

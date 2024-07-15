@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -20,8 +21,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -38,9 +41,17 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/e/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/e/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/elen-un-domingo-mas/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-06T11:36:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
