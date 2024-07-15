@@ -21,55 +21,120 @@ Am
 
 Am
 Chuan Chiquet que danza,
-D       E7    Am      
+Dm      E7    Am      
 cuan plena la pancha.
 Am
 Chuan Chiquet que danza,
-D       E7    Am
+Dm      E7    Am
 cuan plena la pancha.
-      D     E7    Am
+      Am    E7    Am
 Con o piet, piet, piet,
-      D     G     C
+      Am     G     C
 con o piet, piet, piet,
-E            Am            D  E7  Am
+E            Am            Dm  E7  Am
 asinas danza Chuan Chiquet.
 
+Am
 Chuan Chiquet que danza,
-cuán plena la pancha, - (bis),
+Dm      E7    Am
+cuan plena la pancha.
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+         Am        E7        Am
+Con o chenullo, chenullo, chenullo,
+      Am    E7    Am
 con o piet, piet, piet,
-con o chenullo, chenullo, chenullo,
+      Am    G     C
+con o piet, piet, piet,
+E            Am            Dm  E7  Am
 asinas danza Chuan Chiquet.
 
+Am
 Chuan Chiquet que danza,
-cuán plena la pancha, - (bis),
-con o piet, piet, piet,
+Dm      E7    Am
+cuan plena la pancha.
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+      Am    E7    Am
+Con o codo, codo, codo,
+         Am        E7        Am
 con o chenullo, chenullo, chenullo,
+      Am    E7    Am
+con o piet, piet, piet,
+      Am    G     C
+con o piet, piet, piet,
+E            Am            Dm  E7  Am
+asinas danza Chuan Chiquet.
+
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+      Am   E7   Am
+Con a man, man, man,
+      Am    E7    Am
 con o codo, codo, codo,
+         Am        E7        Am
+con o chenullo, chenullo, chenullo,
+      Am    E7    Am
+con o piet, piet, piet,
+      Am    G     C
+con o piet, piet, piet,
+E            Am            Dm  E7  Am
 asinas danza Chuan Chiquet.
 
+Am
 Chuan Chiquet que danza,
-cuán plena la pancha, - (bis),
-con o piet, piet, piet,
-con o chenullo, chenullo, chenullo,
-con o codo, codo, codo,
+Dm      E7    Am
+cuan plena la pancha.
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+      Am    E7    Am
+Con o dido, dido, dido,
+      Am   E7   Am
 con a man, man, man,
+      Am    E7    Am
+con o codo, codo, codo,
+         Am        E7        Am
+con o chenullo, chenullo, chenullo,
+      Am    E7    Am
+con o piet, piet, piet,
+      Am    G     C
+con o piet, piet, piet,
+E            Am            Dm  E7  Am
 asinas danza Chuan Chiquet.
 
+Am
 Chuan Chiquet que danza,
-cuán plena la pancha, - (bis),
-con o piet, piet, piet,
-con o chenullo, chenullo, chenullo,
-con o codo, codo, codo,
-con a man, man, man,
+Dm      E7    Am
+cuan plena la pancha.
+Am
+Chuan Chiquet que danza,
+Dm      E7    Am
+cuan plena la pancha.
+      Am    E7    Am
+Con o culo, culo, culo,
+      Am    E7    Am
 con o dido, dido, dido,
-asinas danza Chuan Chiquet.
-
-Chuan Chiquet que danza,
-cuán plena la pancha, - (bis),
-con o piet, piet, piet,
-con o chenullo, chenullo, chenullo,
-con o codo, codo, codo,
+      Am   E7   Am
 con a man, man, man,
-con o dido, dido, dido,
-con o culo, culo, culo,
-asinas danza Chuan Chiquet.... </pre>
+      Am    E7    Am
+con o codo, codo, codo,
+         Am        E7        Am
+con o chenullo, chenullo, chenullo,
+      Am    E7    Am
+con o piet, piet, piet,
+      Am    G     C
+con o piet, piet, piet,
+E            Am            Dm  E7  Am
+asinas danza Chuan Chiquet.</pre>
