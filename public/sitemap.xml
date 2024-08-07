@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/years/2020/</loc>
-    <lastmod>2024-07-16T17:47:13+02:00</lastmod>
+    <loc>http://localhost:1313/years/2007/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/acordes/</loc>
-    <lastmod>2024-07-16T17:47:13+02:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/groups/comando-cucaracha/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/acordes/comando-cucaracha_aragon-ye-ye/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/genres/</loc>
-    <lastmod>2024-07-16T17:47:13+02:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/groups/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/genres/rock/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/years/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/years/2020/</loc>
     <lastmod>2024-07-16T17:47:13+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/genres/indie/</loc>
@@ -23,23 +38,20 @@
     <loc>http://localhost:1313/acordes/ixeya_corre/</loc>
     <lastmod>2024-07-16T17:47:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/years/</loc>
-    <lastmod>2024-07-16T17:47:13+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/years/2013/</loc>
     <lastmod>2024-07-15T20:13:05+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/years/2017/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-06T20:06:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/groups/bosnerau/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-06T20:06:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/acordes/bosnerau_a-muga/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-06T20:06:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/genres/folk/</loc>
-    <lastmod>2024-07-15T20:13:05+02:00</lastmod>
+    <lastmod>2024-08-06T20:06:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/groups/titiriteros-de-bin%C3%A9far/</loc>
     <lastmod>2024-07-15T20:13:05+02:00</lastmod>

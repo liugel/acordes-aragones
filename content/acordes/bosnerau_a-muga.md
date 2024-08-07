@@ -15,7 +15,6 @@ draft: false
 Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=nhNieuOHTVU) | [Spotify](https://open.spotify.com/track/2I9PyEgzqzV91FEiJW0FK8?si=f61f5ce60910422e) | [Apple Music](https://music.apple.com/es/album/a-muga/1440719395?i=1440719402)
 
 <pre>
-[Simplificar]
 F  Dm  C
 F  Dm  G  C x4
 
