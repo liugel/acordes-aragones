@@ -143,7 +143,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/liugel/acordes-aragones/edit/main/exampleSite/content"
+    base: "https://github.com/liugel/acordes-aragones/edit/main/content"
 
   blog:
     list:
