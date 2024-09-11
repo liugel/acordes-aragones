@@ -19,7 +19,7 @@ G  Cm  G  Cm
 Fm Cm  G  Cm
 Fm Cm  G  Cm
 
-   G               Cm     G                  C
+   G               Cm     G                  Cm
 Dondiaba de bar en bar, mirando puesto pa bailar
    G           Cm         Fm             Cm
 m’aganaba de fumar y tu tenebas fuego pa dar‐me,
@@ -64,6 +64,8 @@ Cm
 woi woi woi woi
    G                 Cm
 y asinas divierte‐te hue
+
+Fm Cm  G  Cm
 
   Fm            Cm       G              Cm
 Estiende a tuya miel, fe‐lo sobre a mía piel,

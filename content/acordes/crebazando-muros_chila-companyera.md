@@ -55,7 +55,7 @@ Perque si no, malas que tu en fayas cuenta
 A             B                E
 El serol d’es fabans te’n privará
 
-E          B          C#m
+E                     B
 En creixer voi prencipiar a entender
 C#m             B       
 No yera facil eslechir qué ser

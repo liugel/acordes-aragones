@@ -96,7 +96,7 @@ A                    E
  quan voi a mercar o pan,
 F#m               D
  a escuela sigue ubierta,
-A                 D
+A                 E
  no ye encara o final
 F#m                 D
  como en A pluya amariella
