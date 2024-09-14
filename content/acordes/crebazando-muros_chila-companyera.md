@@ -1,5 +1,5 @@
 ---
-title: "Crebazando Muros - Chila, companyera"
+title: "Chila, companyera"
 date: 2024-07-06
 authors:
   - name: lekinu
@@ -12,6 +12,9 @@ genres:
 excludeSearch: false
 draft: false
 ---
+
+### Crebazando Muros - Chila, companyera (2023)
+
 Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=gckZ0sOgeyw) | [Spotify](https://open.spotify.com/track/5IuZ56UjzlmGUU1SfAS93N?si=d3f3954f06834213) | [Apple Music](https://music.apple.com/id/album/chila-companyera/1678418404?i=1678418631)
 
 <pre>

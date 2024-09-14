@@ -1,5 +1,5 @@
 ---
-title: "Ixeya - Corre"
+title: "Corre"
 date: 2024-07-16
 authors:
   - name: lekinu
@@ -12,6 +12,8 @@ genres:
 excludeSearch: false
 draft: false
 ---
+
+### Ixeya - Corre (2020)
 
 Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=YWElGHHIG2Y) | [Spotify](https://open.spotify.com/track/1dtK6vSEsSS9jo7ERGRJqh?si=f5f039ce3d4c412c) | [Apple Music](https://music.apple.com/es/album/corre-aragon%C3%A9s/1542968686?i=1542968687)
 

@@ -1,5 +1,5 @@
 ---
-title: "Elena Martínez - E tot que tos digo amigos"
+title: "E tot que tos digo amigos"
 date: 2024-08-18
 authors:
   - name: lekinu
@@ -12,6 +12,9 @@ genres:
 excludeSearch: false
 draft: false
 ---
+
+### Elena Martínez - E tot que tos digo amigos (2018)
+
 Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=MNtDI9JJVrU) | [Spotify](https://open.spotify.com/track/0IvJIv8KZC5EFXunTIbMAZ?si=b98c84a649ea4328) | [Apple Music](https://music.apple.com/us/album/e-tot-que-tos-digo-amigos/1387941019?i=1387942142)
 
 <pre>
