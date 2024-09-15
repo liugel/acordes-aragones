@@ -33,20 +33,22 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Cancion aleatoria"
+    title="Canción aleatoria"
     subtitle="Preba a tanyer cualsiquier canción que haiga en Acordes en aragonés."
+    link="random"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
-  {{< hextra/feature-card
+  {{< hextra/last-post-card
     title="Zagueras cancions afechidas"
     subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+    link="acordes"
   >}}
   {{< hextra/feature-card
     title="Actualizacions d'a web"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
+    subtitle="16/09/2024: Cambios en la pachina inicial y la información sobre el prochecto."
   >}}
   {{< hextra/feature-card
     title="Ninvía la tuya canción"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
+    subtitle="Quiers colaborar con lo prochecto y puyar unos acordes? Fes click per saber cómo."
   >}}
 {{< /hextra/feature-grid >}}

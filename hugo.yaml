@@ -12,7 +12,7 @@ services:
     ID: G-X3Q30PBR47
 
 outputs:
-  home: [HTML]
+  home: [HTML, JSON]
   page: [HTML]
   section: [HTML, RSS]
 
@@ -58,10 +58,10 @@ menu:
       name: Aduya
       pageRef: /docs
       weight: 1
-    - identifier: news
-      name: Noticias
-      pageRef: /news
-      weight: 2
+   #- identifier: news
+      #name: Noticias
+      #pageRef: /news
+      #weight: 2
     - identifier: about
       name: 'Acerca de'
       pageRef: /about

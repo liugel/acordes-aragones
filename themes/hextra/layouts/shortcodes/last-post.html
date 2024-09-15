@@ -1,0 +1,4 @@
+{{ range ( where .Site.RegularPages "Type" "acordes" | first 3 ) }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{end}}
+
