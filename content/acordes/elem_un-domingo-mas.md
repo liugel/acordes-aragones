@@ -15,7 +15,7 @@ draft: false
 
 ### Elem - Un domingo mas (2022)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=uUDLpinG3l0) | [Spotify](https://open.spotify.com/track/17o6ceG4gYdE2Q1sROkgYF?si=3ae713cd28c64fb5) | [Apple Music](https://music.apple.com/us/album/un-domingo-mas/1621760527?i=1621760530)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=uUDLpinG3l0) | [Spotify](https://open.spotify.com/track/17o6ceG4gYdE2Q1sROkgYF?si=3ae713cd28c64fb5) | [Apple Music](https://music.apple.com/us/album/un-domingo-mas/1621760527?i=1621760530)
 
 <pre>
 D          Am      C               G  

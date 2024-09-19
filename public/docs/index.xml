@@ -1,0 +1,289 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acordes en aragonés – Introducción</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Introducción on Acordes en aragonés</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Puyar una canción</title>
+      <link>http://localhost:1313/docs/puyar-cancion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/puyar-cancion/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Las pachinas d&amp;rsquo;Acordes en aragonés siguen lo formato &lt;a href=&#34;https://es.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;. Per puyar la transcripción d&amp;rsquo;una canción, sigue los siguients pasos.&lt;/p&gt;
+&lt;div class=&#34;steps hx-ml-4 hx-mb-12 ltr:hx-border-l rtl:hx-border-r hx-border-gray-200 ltr:hx-pl-6 rtl:hx-pr-6 dark:hx-border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Copia la plantilla d&amp;rsquo;acordes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;copia-la-plantilla-dacordes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#copia-la-plantilla-dacordes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Copia la siguient plantilla ta un procesador de texto como lo Bloc de notas u Word:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+  
+
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;#34;Titulo d&amp;#39;a cancion&amp;#34;
+date: 2024-01-01
+authors:
+  - name: autor
+groups:
+  - Grupo
+years:
+  - 2024 
+genres:
+  - Chenero
+excludeSearch: false
+draft: false
+---
+
+      C
+Ta Boltaña he de baxar
+      G7
+dende Silbes a estudiar,
+     C             F          G7
+o maitin prenzipia ya a dispertar&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copia lo codigo&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+  
+&lt;/div&gt;
+&lt;h3&gt;Emplena la plantilla&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;emplena-la-plantilla&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#emplena-la-plantilla&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Modifica la plantilla con los siguients datos:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Dato&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Conteniu&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Eixemplo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;title&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Título d&amp;rsquo;a canción (entre cometas)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;ldquo;L&amp;rsquo;alentar d&amp;rsquo;as Piedras&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;date&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Día que tu creas l&amp;rsquo;acorde (formato: anyo-mes-dia)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2024-09-18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Lo tuyo nombre, que quiers que aparezca en la publicación&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;lekinu&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;groups&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Grupo u u cantant orichinal de la canción&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Isabel Marco&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;years&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Anyo de publicación orichinal de la canción&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2020&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;code&gt;genres&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chenero de la canción (aproximau)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Pop&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Deixa los campos &lt;code&gt;excludeSearch&lt;/code&gt; y &lt;code&gt;draft&lt;/code&gt; como bi son. Dimpués, debaixo de las tres rayetas (&lt;code&gt;---&lt;/code&gt;), prencipia ta emplenar la plantilla con la letra y acordes de la canción. Ye muit important que los acordes dentren en lo momento exacto. Mira-te ista estrofa, per eixemplo:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+  
+
+&lt;pre&gt;&lt;code&gt;F#m                D
+ Buen día, María Loísa,
+A                  E
+ le fa goi d’amaitinar,
+F#m              D
+ ha sacau as gallinas
+A                   E
+ mesmo antes d’almorzar&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copia lo codigo&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+  
+&lt;/div&gt;
+&lt;p&gt;En &lt;a href=&#34;https://raw.githubusercontent.com/liugel/acordes-aragones/main/content/acordes/isabel-marco_alentar-das-piedras.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iste enlaz&lt;/a&gt; puez veyer cómo quedaría una plantilla completa.&lt;/p&gt;
+&lt;h3&gt;Ninvía la plantilla&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ninvía-la-plantilla&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ninv%c3%ada-la-plantilla&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ninvía la plantilla completa a &lt;a href=&#34;mailto:acordesaragones@gmail.com&#34; &gt;acordesaragones@gmail.com&lt;/a&gt;. La plantilla será revisada y se te contactará si ye menester completar bel dato.&lt;/p&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ⚠️
+      &lt;/div&gt;&lt;/div&gt;
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Antes de ninviar la canción, revisa las &lt;a href=&#34;http://localhost:1313/docs/reglas&#34; &gt;reglas d&amp;rsquo;uso&lt;/a&gt;.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Si la transcripción cumple las reglas d&amp;rsquo;uso y tien toz los datos necesarios, se t&amp;rsquo;avisará por correo electronico y se publicará en la web.&lt;/p&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fer correccions</title>
+      <link>http://localhost:1313/docs/correccions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/correccions/</guid>
+      <description>
+        
+        
+        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      Puez emprar los siguients pasos per correchir cualsiquier errata que trobes en la pachina. Aduya-nos a millorar lo nuestro aragonés!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acordes en aragonés empra &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; per alochar la web y controlar las versions. Per ixo, necesitarás &lt;a href=&#34;https://github.com/join&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;crear una cuenta en GitHub&lt;/a&gt; si no la tiens ya.&lt;/p&gt;
+&lt;div class=&#34;steps hx-ml-4 hx-mb-12 ltr:hx-border-l rtl:hx-border-r hx-border-gray-200 ltr:hx-pl-6 rtl:hx-pr-6 dark:hx-border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Identifica-te en GitHub&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;identifica-te-en-github&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#identifica-te-en-github&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Dentra con lo tuyo usuario en &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Dentra a l&amp;rsquo;acorde que quiers correchir&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;dentra-a-lacorde-que-quiers-correchir&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#dentra-a-lacorde-que-quiers-correchir&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ves a la pachina de la canción en &lt;a href=&#34;https://acordesaragones.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acordes en aragonés&lt;/a&gt; que quiers correchir.&lt;/p&gt;
+&lt;h3&gt;Ves a l&amp;rsquo;editor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ves-a-leditor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ves-a-leditor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;En la pachina de la canción, preme sobre l&amp;rsquo;enlaz que diz &lt;code&gt;Edita la pachina en GitHub →&lt;/code&gt;. Fes los cambios necesarios.&lt;/p&gt;
+&lt;h3&gt;Confirma los cambios en GitHub&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;confirma-los-cambios-en-github&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#confirma-los-cambios-en-github&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Confirma los cambios premendo sobre &lt;code&gt;Commit changes...&lt;/code&gt; y deixa un mensache informatiu (per eixemplo: error en segunda estrofa).&lt;/p&gt;
+&lt;h3&gt;Aspera a que los cambios sigan revisaus&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;aspera-a-que-los-cambios-sigan-revisaus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aspera-a-que-los-cambios-sigan-revisaus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Se chenerará un &lt;em&gt;pull request&lt;/em&gt;. Los cambios serán revisaus y publicaus si son correctos.&lt;/p&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reglas d&#39;uso</title>
+      <link>http://localhost:1313/docs/reglas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/reglas/</guid>
+      <description>
+        
+        
+        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-red-200 hx-bg-red-100 hx-text-red-900 dark:hx-border-red-200/30 dark:hx-bg-red-900/30 dark:hx-text-red-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        🚫
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
+      No s&amp;rsquo;aceptarán solo letras de cancions. Tampoco s&amp;rsquo;aceptarán transcripcions de cancions d&amp;rsquo;artistas desconoixius u &lt;em&gt;amateurs&lt;/em&gt;.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Per a que unos acordes sigan publicados en Acordes en aragonés, s&amp;rsquo;han de cumplir las siguients condicions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La canción ha de tenir letra i estar cantada en &lt;strong&gt;luenga aragonesa&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;La transcripción de la canción ha de tenir &lt;strong&gt;notas&lt;/strong&gt; (acordes y &lt;em&gt;tabs&lt;/em&gt; u tablaturas) amás de la letra.&lt;/li&gt;
+&lt;li&gt;En los acordes, s&amp;rsquo;emprará lo &lt;a href=&#34;https://es.wikipedia.org/wiki/Sistema_de_notaci%C3%B3n_musical_anglosaj%C3%B3n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sistema de notación musical anglosaxón&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Puez ninviar acordes de cancions ya publicadas cuan se trate d&amp;rsquo;una &lt;strong&gt;versión diferent&lt;/strong&gt; u la corrección d&amp;rsquo;una canción tuya ninviada previament.&lt;/li&gt;
+&lt;li&gt;La canción s&amp;rsquo;ha de poder ascuitar en bella plataforma multimedia &lt;strong&gt;conoixida&lt;/strong&gt; (per eixemplo: YouTube, Spotify, Apple Music, Bandcamp).&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Actualizacions d&#39;a web</title>
+      <link>http://localhost:1313/docs/actualizacions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/actualizacions/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Data&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Comentario&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;19/09/2024&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Feita la documentación d&amp;rsquo;aduya&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;16/09/2024&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Cambios en la pachina inicial y la información sobre lo prochecto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

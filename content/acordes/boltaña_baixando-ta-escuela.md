@@ -15,7 +15,7 @@ draft: false
 
 ### La Ronda de Boltaña - Baixando t'a escuela (2003)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=fwfx3MgzrSA) | [Spotify](https://open.spotify.com/track/7lWb8yFWGC4IxI236NAZ9h?si=75b7ea6fb55d4af0) | [Apple Music](https://music.apple.com/sv/album/baxando-ta-escuela/1475778449?i=1475778452)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=fwfx3MgzrSA) | [Spotify](https://open.spotify.com/track/7lWb8yFWGC4IxI236NAZ9h?si=75b7ea6fb55d4af0) | [Apple Music](https://music.apple.com/sv/album/baxando-ta-escuela/1475778449?i=1475778452)
 
 <pre>
 Dm  G7  C  F

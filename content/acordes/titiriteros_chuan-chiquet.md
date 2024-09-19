@@ -17,7 +17,7 @@ draft: false
 
 Chuan Chiquet ye una cancion popular aragonesa. 
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=TIX895rdd1Q) | [Spotify](https://open.spotify.com/track/5c6Q2k5t0o3FyWSGsV0SoH?si=93a0e09ddbaf4525) | [Apple Music](https://music.apple.com/pe/album/chuan-chiquet/589119501?i=589119818)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=TIX895rdd1Q) | [Spotify](https://open.spotify.com/track/5c6Q2k5t0o3FyWSGsV0SoH?si=93a0e09ddbaf4525) | [Apple Music](https://music.apple.com/pe/album/chuan-chiquet/589119501?i=589119818)
 
 <pre>
 Am

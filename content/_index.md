@@ -45,10 +45,12 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Actualizacions d'a web"
-    subtitle="16/09/2024: Cambios en la pachina inicial y la información sobre el prochecto."
+    link="/docs/actualizacions"
+    subtitle="19/09/2024: Feita la documentación d'aduya."
   >}}
   {{< hextra/feature-card
     title="Ninvía la tuya canción"
     subtitle="Quiers colaborar con lo prochecto y puyar unos acordes? Fes click per saber cómo."
+    link="/docs/puyar-cancion"
   >}}
 {{< /hextra/feature-grid >}}

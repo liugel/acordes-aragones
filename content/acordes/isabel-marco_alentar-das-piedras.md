@@ -15,7 +15,7 @@ draft: false
 
 ### Isabel Marco - L'alentar d'as Piedras (2020)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=Odtplex1UAU) | [Spotify](https://open.spotify.com/track/4kp2a6lLDlWR6czDmNvtHn?si=b927c48c52644b44) | [Apple Music](https://music.apple.com/dk/album/lalentar-das-piedras-aragon%C3%A9s/1640793645?i=1640793737)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=Odtplex1UAU) | [Spotify](https://open.spotify.com/track/4kp2a6lLDlWR6czDmNvtHn?si=b927c48c52644b44) | [Apple Music](https://music.apple.com/dk/album/lalentar-das-piedras-aragon%C3%A9s/1640793645?i=1640793737)
 
 <pre>
 F#m D  A  E

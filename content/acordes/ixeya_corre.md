@@ -15,7 +15,7 @@ draft: false
 
 ### Ixeya - Corre (2020)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=YWElGHHIG2Y) | [Spotify](https://open.spotify.com/track/1dtK6vSEsSS9jo7ERGRJqh?si=f5f039ce3d4c412c) | [Apple Music](https://music.apple.com/es/album/corre-aragon%C3%A9s/1542968686?i=1542968687)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=YWElGHHIG2Y) | [Spotify](https://open.spotify.com/track/1dtK6vSEsSS9jo7ERGRJqh?si=f5f039ce3d4c412c) | [Apple Music](https://music.apple.com/es/album/corre-aragon%C3%A9s/1542968686?i=1542968687)
 
 <pre>
 D  D   Bm  Bm

@@ -15,7 +15,7 @@ draft: false
 
 ### Las Guindillas - Ya arribó (2017)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=fxulbcLrfZs) | [Spotify](https://open.spotify.com/track/5jclVFaLfDFGouJNaNvG2V?si=99cafe85d34540e5) | [Apple Music](https://music.apple.com/ve/album/ya-arrib%C3%B3/1622680608?i=1622680762)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=fxulbcLrfZs) | [Spotify](https://open.spotify.com/track/5jclVFaLfDFGouJNaNvG2V?si=99cafe85d34540e5) | [Apple Music](https://music.apple.com/ve/album/ya-arrib%C3%B3/1622680608?i=1622680762)
 
 <pre>
 G  Cm  G  Cm

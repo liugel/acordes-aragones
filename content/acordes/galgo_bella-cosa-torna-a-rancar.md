@@ -15,7 +15,7 @@ draft: false
 
 ### El galgo - Bella cosa torna a rancar (2022)
 
-Ascuita la cancion: [YouTube](https://www.youtube.com/watch?v=nMpGxEwCZwM) | [Spotify](https://open.spotify.com/track/5DJqbGiK6jHJJV2Be19dAL?si=d6f2ec6ca8664b6d) | [Apple Music](https://music.apple.com/do/album/bella-cosa-torna-a-rancar/1621760527?i=1621760547)
+Ascuita la canción: [YouTube](https://www.youtube.com/watch?v=nMpGxEwCZwM) | [Spotify](https://open.spotify.com/track/5DJqbGiK6jHJJV2Be19dAL?si=d6f2ec6ca8664b6d) | [Apple Music](https://music.apple.com/do/album/bella-cosa-torna-a-rancar/1621760527?i=1621760547)
 
 <pre>
 B  C#m (x4)
