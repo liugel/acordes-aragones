@@ -87,3 +87,7 @@ Allí an que qualcosa remata, qualcosa torna a rancar.
 
 B  C#m (x4)
 </pre>
+
+---
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.an"><img style="vertical-align:middle" src="/acordes/by-nc-sa.png" alt="" width="100"/></a><p style="text-align:center">Adaptada d'a transcripción de l'Asociación Cultural Nogará - Religada</p>
