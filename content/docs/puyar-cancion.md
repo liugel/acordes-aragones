@@ -5,13 +5,13 @@ next: /docs/correccions
 prev: /docs
 ---
 
-Las pachinas d'Acordes en aragonés siguen lo formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Per puyar la transcripción d'una canción, sigue los siguients pasos.
+Las pachinas d'Acordes en aragonés siguen lo formato [Markdown](https://es.wikipedia.org/wiki/Markdown). Pa puyar la transcripción d'una canción, sigue los siguients pasos.
 
 {{% steps %}}
 
 ### Copia la plantilla d'acordes
 
-Copia la siguient plantilla ta un procesador de texto como lo Bloc de notas u Word:
+Copia la siguient plantilla en un procesador de texto como lo Bloc de notas u Word:
 
 ```
 ---
@@ -37,20 +37,20 @@ dende Silbes a estudiar,
 o maitin prenzipia ya a dispertar
 ```
 
-### Emplena la plantilla
+### Replena la plantilla
 
-Modifica la plantilla con los siguients datos:
+Replena la plantilla con os siguients datos:
 
 | Dato | Conteniu | Eixemplo |
 | :--- | :------- | :------- |
-| `title` | Título d'a canción (entre cometas) | "L'alentar d'as Piedras" |
+| `title` | Títol d'a canción (entre cometas) | "L'alentar d'as Piedras" |
 | `date` | Día que tu creas l'acorde (formato: anyo-mes-dia) | 2024-09-18 |
-| `name` | Lo tuyo nombre, que quiers que aparezca en la publicación | lekinu |
-| `groups` | Grupo u u cantant orichinal de la canción | Isabel Marco |
-| `years` | Anyo de publicación orichinal de la canción | 2020 |
-| `genres` | Chenero de la canción (aproximau) | Pop |
+| `name` | Lo nombre que quiers que amaneixca en la publicación | lekinu |
+| `groups` | Grupo u cantaire orichinal d'a canción | Isabel Marco |
+| `years` | Anyo de publicación orichinal d'a canción | 2020 |
+| `genres` | Chenero d'a canción (aproximau) | Pop |
 
-Deixa los campos `excludeSearch` y `draft` como bi son. Dimpués, debaixo de las tres rayetas (`---`), prencipia ta emplenar la plantilla con la letra y acordes de la canción. Ye muit important que los acordes dentren en lo momento exacto. Mira-te ista estrofa, per eixemplo:
+Deixa los campos `excludeSearch` y `draft` como bi son. Dimpués, debaixo de las tres rayetas (`---`), prencipia a replenar la plantilla con a letra y acordes d'a canción. Ye muit important que los acordes dentren en lo momento exacto. Mira-te ista estrofa, per eixemplo:
 
 ```
 F#m                D
@@ -73,6 +73,6 @@ Ninvía la plantilla completa a [acordesaragones@gmail.com](mailto:acordesaragon
   Antes de ninviar la canción, revisa las [reglas d'uso](/docs/reglas).
 {{< /callout >}}
 
-Si la transcripción cumple las reglas d'uso y tien toz los datos necesarios, se t'avisará por correo electronico y se publicará en la web.
+Si la transcripción cumple las reglas d'uso y tien toz los datos necesarios, se t'avisará por correu electronico y se publicará en a web.
 
 {{% /steps %}}
